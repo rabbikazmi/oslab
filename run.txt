@@ -1,0 +1,1 @@
+// how to run cpp code in vscode powershell: g++ filename.cpp -o filename.exe && ./filename.exe
